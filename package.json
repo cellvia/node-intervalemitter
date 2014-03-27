@@ -1,0 +1,18 @@
+{
+  "author": {
+    "name": "Brandon Selway",
+    "email": "brandon.selway@gmail.com",
+    "url": "http://cellvia.github.io"
+  },
+  "name": "intervalemitter",
+  "version": "0.0.3",
+  "description": "Run processes at intervals",
+  "dependencies": {
+    "timestring": "~1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cellvia/node-intervalemitter.git"
+  },
+  "keywords": [ "interval", "eventemitter", "emitter", "events" ]
+}
